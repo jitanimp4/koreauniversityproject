@@ -537,7 +537,7 @@ Certain questions grant:
 How to run on linux server: 
 
 1. git clone 
-2. cd COMP2113-Group-129
+2. cd koreauniversityproject
 3. make clean
 4. make
 5. ./odyssey_os
