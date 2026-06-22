@@ -1,0 +1,328 @@
+# THE FORGER'S TABLE — Artifact Database
+# Format: KEY: VALUE  |  Separator: ===
+# FORGE format: FIELD=VALUE|FIELD=VALUE|...
+
+NAME: Colosseum
+DATE: 70 AD
+LOCATION: Rome, Italy
+BUILDER: Roman Empire
+MATERIAL: Travertine Limestone and Concrete
+STYLE: Amphitheatre
+FACT: The Colosseum could hold up to 80,000 spectators and featured underground tunnels called hypogea where animals and gladiators waited before entering the arena.
+DIFFICULTY: easy
+EASY_FORGE: DATE=500 BC
+MEDIUM_FORGE: DATE=72 AD
+HARD_FORGE: DATE=72 AD|LOCATION=Naples, Italy|BUILDER=Greek Senate
+===
+
+NAME: Eiffel Tower
+DATE: 1889
+LOCATION: Paris, France
+BUILDER: Gustave Eiffel
+MATERIAL: Puddled Iron
+STYLE: Lattice Tower
+FACT: The Eiffel Tower was originally intended to be dismantled after 20 years but was saved because it served as a valuable radio transmission tower for Paris.
+DIFFICULTY: easy
+EASY_FORGE: DATE=1850
+MEDIUM_FORGE: DATE=1891
+HARD_FORGE: DATE=1891|LOCATION=Lyon, France|MATERIAL=Cast Iron and Steel
+===
+
+NAME: Great Wall of China
+DATE: 7th Century BC
+LOCATION: Northern China
+BUILDER: Various Chinese Dynasties
+MATERIAL: Stone, Brick, and Rammed Earth
+STYLE: Defensive Fortification
+FACT: The Great Wall is not one continuous wall but a series of walls built over centuries. The Ming Dynasty section, most visible today, stretches over 8,850 kilometres.
+DIFFICULTY: easy
+EASY_FORGE: DATE=1200 AD
+MEDIUM_FORGE: BUILDER=Han Dynasty
+HARD_FORGE: DATE=1200 AD|BUILDER=Han Dynasty|LOCATION=Southern China
+===
+
+NAME: Machu Picchu
+DATE: 1450 AD
+LOCATION: Cusco Region, Peru
+BUILDER: Inca Empire
+MATERIAL: Dry-Stone Granite
+STYLE: Mountain Citadel
+FACT: Machu Picchu was built without mortar — its stones fit together so precisely that not even a knife blade can be inserted between them, a technique called ashlar masonry.
+DIFFICULTY: easy
+EASY_FORGE: DATE=1200 AD
+MEDIUM_FORGE: DATE=1438 AD
+HARD_FORGE: DATE=1438 AD|BUILDER=Aztec Empire|MATERIAL=Adobe Brick
+===
+
+NAME: Taj Mahal
+DATE: 1632 AD
+LOCATION: Agra, India
+BUILDER: Mughal Emperor Shah Jahan
+MATERIAL: White Makrana Marble
+STYLE: Mausoleum
+FACT: The Taj Mahal changes colour throughout the day — pinkish at dawn, dazzling white at noon, and golden under moonlight — due to how light interacts with its translucent marble.
+DIFFICULTY: easy
+EASY_FORGE: DATE=1400 AD
+MEDIUM_FORGE: DATE=1648 AD
+HARD_FORGE: DATE=1648 AD|BUILDER=Akbar the Great|LOCATION=Delhi, India
+===
+
+NAME: Stonehenge
+DATE: 3000 BC
+LOCATION: Wiltshire, England
+BUILDER: Neolithic Peoples
+MATERIAL: Sarsen and Bluestone
+STYLE: Prehistoric Monument
+FACT: The bluestones at Stonehenge were transported over 250 kilometres from the Preseli Hills in Wales — a remarkable feat achieved with no wheeled vehicles or metal tools.
+DIFFICULTY: easy
+EASY_FORGE: DATE=100 AD
+MEDIUM_FORGE: DATE=2500 BC
+HARD_FORGE: DATE=2500 BC|BUILDER=Roman Druids|LOCATION=Cornwall, England
+===
+
+NAME: Parthenon
+DATE: 447 BC
+LOCATION: Athens, Greece
+BUILDER: Athenian Empire
+MATERIAL: Pentelic Marble
+STYLE: Doric Temple
+FACT: The Parthenon's columns are not perfectly straight — they lean inward very slightly and have a subtle bulge called entasis, deliberately designed to counteract optical illusions that would make straight columns appear warped.
+DIFFICULTY: easy
+EASY_FORGE: DATE=100 AD
+MEDIUM_FORGE: DATE=449 BC
+HARD_FORGE: DATE=449 BC|BUILDER=Spartan League|MATERIAL=Limestone and Bronze
+===
+
+NAME: Chichen Itza
+DATE: 600 AD
+LOCATION: Yucatan, Mexico
+BUILDER: Maya Civilization
+MATERIAL: Limestone
+STYLE: Pyramid Complex
+FACT: During the spring and autumn equinoxes, the setting sun casts a shadow on El Castillo pyramid that creates the illusion of a giant serpent descending the staircase — a deliberate astronomical alignment by Maya architects.
+DIFFICULTY: easy
+EASY_FORGE: DATE=1300 AD
+MEDIUM_FORGE: DATE=550 AD
+HARD_FORGE: DATE=550 AD|BUILDER=Aztec Confederation|LOCATION=Oaxaca, Mexico
+===
+
+NAME: Angkor Wat
+DATE: 1113 AD
+LOCATION: Siem Reap, Cambodia
+BUILDER: Khmer Empire
+MATERIAL: Sandstone and Laterite
+STYLE: Hindu Temple Complex
+FACT: Angkor Wat is the world's largest religious monument, covering 1.6 square kilometres. It originally served as a Hindu temple dedicated to Vishnu before being converted to Buddhism in the 14th century.
+DIFFICULTY: medium
+EASY_FORGE: DATE=800 AD
+MEDIUM_FORGE: DATE=1150 AD
+HARD_FORGE: DATE=1150 AD|BUILDER=Cham Kingdom|MATERIAL=Brick and Laterite
+===
+
+NAME: Forbidden City
+DATE: 1406 AD
+LOCATION: Beijing, China
+BUILDER: Yongle Emperor
+MATERIAL: Wood, Brick, and Glazed Tile
+STYLE: Imperial Palace Complex
+FACT: The Forbidden City contains 9,999 rooms — one short of the mythical 10,000 rooms believed to exist in the heavenly palace, as only the gods were permitted to surpass the Emperor.
+DIFFICULTY: medium
+EASY_FORGE: DATE=900 AD
+MEDIUM_FORGE: DATE=1420 AD
+HARD_FORGE: DATE=1420 AD|BUILDER=Hongwu Emperor|MATERIAL=Stone and Bronze
+===
+
+NAME: Petra
+DATE: 312 BC
+LOCATION: Ma'an Governorate, Jordan
+BUILDER: Nabataean Kingdom
+MATERIAL: Rose-Red Sandstone
+STYLE: Rock-Cut Architecture
+FACT: Petra's most iconic facade, the Treasury, is not actually a treasury — it was a royal tomb for the Nabataean king Aretas IV. Bedouin legend claimed it hid a pharaoh's treasure, giving it the name.
+DIFFICULTY: medium
+EASY_FORGE: DATE=100 AD
+MEDIUM_FORGE: DATE=300 BC
+HARD_FORGE: DATE=300 BC|BUILDER=Roman Province Arabia|MATERIAL=Adobe and Mud Brick
+===
+
+NAME: Alhambra Palace
+DATE: 889 AD
+LOCATION: Granada, Spain
+BUILDER: Moorish Rulers of Granada
+MATERIAL: Stucco, Tile, and Carved Wood
+STYLE: Islamic Palatial Fortress
+FACT: The name Alhambra means "the red one" in Arabic, likely referring to the reddish clay used in its walls. Its ornate interior inscriptions consist almost entirely of Quranic verses and poetry.
+DIFFICULTY: medium
+EASY_FORGE: DATE=1500 AD
+MEDIUM_FORGE: DATE=1238 AD
+HARD_FORGE: DATE=1238 AD|BUILDER=Catholic Monarchy|MATERIAL=Stone and Marble
+===
+
+NAME: Hagia Sophia
+DATE: 537 AD
+LOCATION: Istanbul, Turkey
+BUILDER: Byzantine Emperor Justinian I
+MATERIAL: Brick and Limestone
+STYLE: Byzantine Basilica
+FACT: The Hagia Sophia's massive dome was considered an engineering miracle — ancient sources claimed it was suspended from heaven by a golden chain. Its central dome spans 31 metres, nearly matching Rome's Pantheon.
+DIFFICULTY: medium
+EASY_FORGE: DATE=1200 AD
+MEDIUM_FORGE: DATE=532 AD
+HARD_FORGE: DATE=532 AD|BUILDER=Ottoman Sultan Suleiman|LOCATION=Ankara, Turkey
+===
+
+NAME: Notre-Dame Cathedral
+DATE: 1163 AD
+LOCATION: Paris, France
+BUILDER: Bishop Maurice de Sully
+MATERIAL: Limestone and Stained Glass
+STYLE: Gothic Cathedral
+FACT: Notre-Dame was the first major building to extensively use flying buttresses — arched external supports that let builders raise the walls much higher and add enormous stained-glass windows previously impossible in stone construction.
+DIFFICULTY: medium
+EASY_FORGE: DATE=800 AD
+MEDIUM_FORGE: DATE=1182 AD
+HARD_FORGE: DATE=1182 AD|BUILDER=Pope Innocent III|MATERIAL=Sandstone and Lead Glass
+===
+
+NAME: Statue of Liberty
+DATE: 1886
+LOCATION: New York Harbor, USA
+BUILDER: Frederic Auguste Bartholdi
+MATERIAL: Copper and Steel
+STYLE: Neoclassical Sculpture
+FACT: The Statue of Liberty's copper skin has changed colour dramatically since 1886 — originally a shiny reddish-brown like a new penny, it turned its iconic green due to oxidation over roughly 30 years.
+DIFFICULTY: medium
+EASY_FORGE: DATE=1920
+MEDIUM_FORGE: DATE=1884
+HARD_FORGE: DATE=1884|BUILDER=Alexandre Gustave Eiffel|LOCATION=Boston Harbor, USA
+===
+
+NAME: Acropolis of Athens
+DATE: 5th Century BC
+LOCATION: Athens, Greece
+BUILDER: Pericles of Athens
+MATERIAL: Pentelic Marble and Limestone
+STYLE: Classical Greek Citadel
+FACT: During construction under Pericles, the Acropolis building programme employed an estimated 20,000 workers including sculptors, architects, metalworkers, and painters — making it the ancient world's largest public works project.
+DIFFICULTY: medium
+EASY_FORGE: DATE=100 AD
+MEDIUM_FORGE: DATE=4th Century BC
+HARD_FORGE: DATE=4th Century BC|BUILDER=Alexander the Great|MATERIAL=Limestone and Plaster
+===
+
+NAME: Elizabeth Tower (Big Ben)
+DATE: 1859
+LOCATION: London, England
+BUILDER: Augustus Pugin
+MATERIAL: Limestone and Cast Iron
+STYLE: Victorian Gothic Clock Tower
+FACT: The name "Big Ben" technically refers only to the 13.5-tonne main bell inside the tower, not the tower itself. The tower was renamed Elizabeth Tower in 2012 to honour Queen Elizabeth II's Diamond Jubilee.
+DIFFICULTY: medium
+EASY_FORGE: DATE=1700
+MEDIUM_FORGE: DATE=1856
+HARD_FORGE: DATE=1856|BUILDER=Charles Barry|LOCATION=Edinburgh, Scotland
+===
+
+NAME: Great Zimbabwe
+DATE: 1100 AD
+LOCATION: Masvingo Province, Zimbabwe
+BUILDER: Kingdom of Zimbabwe
+MATERIAL: Unmortared Granite
+STYLE: Dry-Stone Enclosure Complex
+FACT: The walls of Great Zimbabwe were built without any mortar or cement — the granite blocks were carefully shaped and stacked using friction alone. Some walls still stand over 11 metres tall after 900 years.
+DIFFICULTY: hard
+EASY_FORGE: DATE=500 BC
+MEDIUM_FORGE: DATE=1250 AD
+HARD_FORGE: DATE=1250 AD|BUILDER=Zulu Kingdom|MATERIAL=Fired Brick and Mortar
+===
+
+NAME: Borobudur Temple
+DATE: 750 AD
+LOCATION: Central Java, Indonesia
+BUILDER: Sailendra Dynasty
+MATERIAL: Andesite Stone
+STYLE: Buddhist Mandala Stupa
+FACT: Borobudur was abandoned and hidden under volcanic ash and jungle for nearly a thousand years. It was only rediscovered in 1814 when Sir Thomas Stamford Raffles ordered an expedition into the jungle following local stories.
+DIFFICULTY: hard
+EASY_FORGE: DATE=1300 AD
+MEDIUM_FORGE: DATE=800 AD
+HARD_FORGE: DATE=800 AD|BUILDER=Majapahit Empire|MATERIAL=Terracotta and Fired Mortar
+===
+
+NAME: Teotihuacan
+DATE: 100 BC
+LOCATION: Mexico City Basin, Mexico
+BUILDER: Teotihuacan Civilization
+MATERIAL: Adobe, Stone, and Lime Plaster
+STYLE: Mesoamerican City Complex
+FACT: Teotihuacan was one of the largest cities in the ancient world, home to an estimated 125,000 people at its peak. Remarkably, no one knows what language its people spoke or even what they called their own city.
+DIFFICULTY: hard
+EASY_FORGE: DATE=1000 AD
+MEDIUM_FORGE: DATE=200 AD
+HARD_FORGE: DATE=200 AD|BUILDER=Aztec Empire|MATERIAL=Adobe and Obsidian Glass
+===
+
+NAME: Persepolis
+DATE: 518 BC
+LOCATION: Fars Province, Iran
+BUILDER: Achaemenid Empire
+MATERIAL: Grey Limestone and Cedar
+STYLE: Persian Imperial Palace
+FACT: Persepolis was deliberately burned to the ground by Alexander the Great in 330 BC — ancient sources debate whether this was a calculated political act or a drunken accident. Either way, it destroyed the greatest palace of the ancient Persian world.
+DIFFICULTY: hard
+EASY_FORGE: DATE=100 AD
+MEDIUM_FORGE: DATE=522 BC
+HARD_FORGE: DATE=522 BC|BUILDER=Sassanid Empire|LOCATION=Isfahan Province, Iran
+===
+
+NAME: Lascaux Cave Paintings
+DATE: 17000 BC
+LOCATION: Dordogne, France
+BUILDER: Cro-Magnon Peoples
+MATERIAL: Natural Mineral Pigments
+STYLE: Palaeolithic Cave Art
+FACT: The Lascaux caves were discovered in 1940 by four teenagers following a dog who fell into a hole. The caves were opened to tourists but had to be closed permanently in 1963 — human breath and body heat were causing algae and fungus to destroy the 17,000-year-old paintings.
+DIFFICULTY: hard
+EASY_FORGE: DATE=5000 BC
+MEDIUM_FORGE: DATE=15000 BC
+HARD_FORGE: DATE=15000 BC|BUILDER=Neanderthal Groups|MATERIAL=Charcoal and Ochre Pigments
+===
+
+NAME: Moai of Easter Island
+DATE: 1250 AD
+LOCATION: Easter Island, Chile
+BUILDER: Rapa Nui People
+MATERIAL: Compressed Volcanic Tuff
+STYLE: Monolithic Stone Figures
+FACT: The Moai statues are not just heads — they have full bodies buried underground. Excavations have revealed torsos extending several metres deep, carved with intricate symbols and markings not visible on the surface.
+DIFFICULTY: hard
+EASY_FORGE: DATE=500 BC
+MEDIUM_FORGE: DATE=1400 AD
+HARD_FORGE: DATE=1400 AD|BUILDER=Polynesian Migrants|MATERIAL=Basalt and Granite
+===
+
+NAME: Abu Simbel
+DATE: 1264 BC
+LOCATION: Nubia, Egypt
+BUILDER: Ramesses II
+MATERIAL: Sandstone
+STYLE: Rock-Cut Temple
+FACT: In the 1960s, Abu Simbel was cut into over 1,000 blocks and relocated 65 metres uphill and 200 metres back from the Nile — one of history's greatest archaeological engineering feats, done to save it from rising waters of the new Aswan Dam.
+DIFFICULTY: hard
+EASY_FORGE: DATE=500 BC
+MEDIUM_FORGE: DATE=1244 BC
+HARD_FORGE: DATE=1244 BC|BUILDER=Thutmose III|LOCATION=Alexandria, Egypt
+===
+
+NAME: Tikal
+DATE: 200 BC
+LOCATION: Peten, Guatemala
+BUILDER: Maya Civilization
+MATERIAL: Limestone
+STYLE: Maya Pyramid City
+FACT: Tikal's tallest pyramid, Temple IV, rises 70 metres above the jungle floor. In the original Star Wars film, the Rebel base on Yavin 4 was shot at Tikal — the temple tops visible above the canopy appearing as an alien world.
+DIFFICULTY: hard
+EASY_FORGE: DATE=1000 AD
+MEDIUM_FORGE: DATE=400 AD
+HARD_FORGE: DATE=400 AD|BUILDER=Olmec Federation|LOCATION=Chiapas, Mexico
+===

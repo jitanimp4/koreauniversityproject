@@ -1,0 +1,27 @@
+easy|What continent did humans originate from?|Africa|Second Largest Continent
+easy|Who is the Greek god of the sea?|Poseidon|He carries a trident
+easy|What ancient wonder stretched across northern China?|Great Wall|It was built to protect China from invasions
+easy|Which famous tower in France is made of iron?|Eiffel Tower|It is located in Paris
+easy|What desert is home to the pyramids of Giza?|Sahara|It is the largest hot desert in the world
+easy|Which continent is Egypt located on?|Africa|It is the second largest continent
+easy|What structure in India is known as a symbol of love?|Taj Mahal|It is a white marble mausoleum
+easy|Which city is famous for the Colosseum?|Rome|It is the capital of Italy
+easy|What is the name of the famous leaning tower in Italy?|Leaning Tower of Pisa|It tilts to one side
+easy|What river runs through Egypt?|Nile|It is the longest river in the world
+medium|What famous amphitheater is in Rome?|Colosseum|Gladiators fought there
+medium|Which abandoned island is known as Battleship Island?|Hashima Island|It is in Japan
+medium|What famous stone circle is located in England?|Stonehenge|Its purpose is still debated
+medium|Which ancient civilization built the pyramids?|Egyptians|They lived along the Nile River
+medium|What famous island prison once held Al Capone?|Alcatraz|It is located in San Francisco Bay
+medium|Which famous monument in India was built by Emperor Shah Jahan in memory of his wife?|Taj Mahal|It is made of white marble and located in Agra
+medium|Which ancient city is known as the "Lost City of the Incas"?|Machu Picchu|It is located in Peru
+medium|What famous wall once divided East and West Germany?|Berlin Wall|It fell in 1989
+medium|Which European city is known as the City of Canals?|Venice|It is built on water
+medium|What famous statue stands on Liberty Island?|Statue of Liberty|It was a gift from France
+hard|What fortress in India is known as the Red Fort?|Lal Qila|It is located in Delhi
+hard|What historic fort in Delhi served as the main residence of Mughal emperors?|Red Fort|It is a UNESCO World Heritage Site and hosts India's Independence Day celebrations
+hard|Which kingdom in present-day Nigeria was known for its advanced bronze sculptures?|Benin Kingdom|Its artworks were taken during a British expedition in 1897
+hard|What famous mausoleum in China houses thousands of clay soldiers?|Terracotta Army|It guards the tomb of an emperor
+hard|Which ancient trade route connected China to Europe?|Silk Road|It carried silk and spices
+hard|What massive waterfall located between Zambia and Zimbabwe is one of the largest in the world?|Victoria Falls|It is known locally as Mosi-oa-Tunya
+hard|What ancient structure in Jordan is carved into pink rock?|Petra|It is known as the Rose City
