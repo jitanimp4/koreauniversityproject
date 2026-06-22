@@ -1,23 +1,5 @@
-# COMP2113-Group-129
+
 # Odyssey OS: The Heritage Terminal
-
-Group Members: 
-1. Menaka Kalpally Pulapra Menon (3036505757)
-2. Anushka Jitani (3036474336)
-3. Krislyn Mariah Mendonca
-4. Anshika Mittal (3036476023)
-5. Arpita Sharma (3036476279)
-6. Miracle Ukazu Oluebube (3036566892)
-
-Contributions: 
-
-App 1: Menaka Kalpally Pulapra Menon
-App 2: Anushka Jitani
-App 3: Krislyn Mariah Mendonca
-App 4: Anshika Mittal
-App 5: Arpita Sharma
-App 6: Miracle Ukazu Oluebube
-
 
 Overview:
 
