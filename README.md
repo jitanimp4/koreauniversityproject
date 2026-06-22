@@ -536,7 +536,7 @@ Certain questions grant:
 # Installation 
 How to run on linux server: 
 
-1. git clone https://github.com/jitanimp4/COMP2113-Group-129.git
+1. git clone 
 2. cd COMP2113-Group-129
 3. make clean
 4. make
